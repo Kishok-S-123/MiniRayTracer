@@ -6,4 +6,13 @@ This is a small task I am assigning myself to improve my proficiency in C++. I w
 - We can do this by writing our image to a ppm file and viewing it in a 3rd party program as mentioned in the tutorial
 - A potential extension here is to have the image viewer as part of the program, but we can worry about this later
 
-### Step 2: TBD
+- After reading up on the ppm format, I was able to write the following code to write an image to a ppm file:
+
+![alt text](assets/step1_ss.png)
+
+- Which as we can see using an online ppm reader has resulted in a nice gradient:
+
+![alt text](assets/ppm_test_image.png)
+
+
+### Step 2: 
